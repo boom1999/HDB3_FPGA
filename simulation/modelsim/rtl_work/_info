@@ -1,0 +1,293 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/altera/13.0/projects/HDB3_FPGA/simulation/modelsim
+T_opt
+!s110 1632988321
+VSRJcITUzlNXIO[9:c[ZRT1
+04 12 4 work HDB3_vlg_tst fast 0
+=1-9829a647fc4e-61556c9f-238-3cd8
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneii_ver -L rtl_work -L work +acc
+n@_opt
+OL;O;10.4;61
+vadd_b
+Z1 !s110 1632988316
+!i10b 1
+!s100 Sl@4zEN68Xh8^fnLIz7_L0
+IOdP^67`mOIV][PQ8_XQ<N3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1632550762
+8E:/altera/13.0/projects/HDB3_FPGA/add_b.v
+FE:/altera/13.0/projects/HDB3_FPGA/add_b.v
+L0 1
+Z3 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1632988316.156000
+!s107 E:/altera/13.0/projects/HDB3_FPGA/add_b.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/altera/13.0/projects/HDB3_FPGA|E:/altera/13.0/projects/HDB3_FPGA/add_b.v|
+!i113 0
+Z4 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 !s92 -vlog01compat -work work +incdir+E:/altera/13.0/projects/HDB3_FPGA -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vadd_v
+R1
+!i10b 1
+!s100 bLmz?2McGiD]hfNGBk[NB1
+IJnXM9Wo5:X5PThh38bXd_1
+R2
+R0
+Z6 w1632550635
+8E:/altera/13.0/projects/HDB3_FPGA/add_v.v
+FE:/altera/13.0/projects/HDB3_FPGA/add_v.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1632988316.036000
+!s107 E:/altera/13.0/projects/HDB3_FPGA/add_v.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/altera/13.0/projects/HDB3_FPGA|E:/altera/13.0/projects/HDB3_FPGA/add_v.v|
+!i113 0
+R4
+R5
+vchange
+R1
+!i10b 1
+!s100 b0^VC[9Z6d9AkP`n<X:>32
+IhDOVWebnmBjUk>SjoKC<a0
+R2
+R0
+R6
+8E:/altera/13.0/projects/HDB3_FPGA/change.v
+FE:/altera/13.0/projects/HDB3_FPGA/change.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1632988316.358000
+!s107 E:/altera/13.0/projects/HDB3_FPGA/change.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/altera/13.0/projects/HDB3_FPGA|E:/altera/13.0/projects/HDB3_FPGA/change.v|
+!i113 0
+R4
+R5
+vdelvb
+R1
+!i10b 1
+!s100 ZE5En9QQgab`P:PPVPMC`1
+Ibj[k6Jm3i1PHoVYDPbKHf2
+R2
+R0
+R6
+8E:/altera/13.0/projects/HDB3_FPGA/delvb.v
+FE:/altera/13.0/projects/HDB3_FPGA/delvb.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1632988316.779000
+!s107 E:/altera/13.0/projects/HDB3_FPGA/delvb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/altera/13.0/projects/HDB3_FPGA|E:/altera/13.0/projects/HDB3_FPGA/delvb.v|
+!i113 0
+R4
+R5
+veven16_div
+Z7 !s110 1632988317
+!i10b 1
+!s100 IY32fi7U^dKEOQI;kJH122
+ID[^PfXIB6f4LmfYU>Si5f2
+R2
+R0
+w1632972579
+8E:/altera/13.0/projects/HDB3_FPGA/even16_div.v
+FE:/altera/13.0/projects/HDB3_FPGA/even16_div.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1632988317.183000
+!s107 E:/altera/13.0/projects/HDB3_FPGA/even16_div.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/altera/13.0/projects/HDB3_FPGA|E:/altera/13.0/projects/HDB3_FPGA/even16_div.v|
+!i113 0
+R4
+R5
+veven256_div
+R1
+!i10b 1
+!s100 P4RX:1WWnaaS^`P?b?n@>0
+I05o[86FAE;b_Z:=dL]B260
+R2
+R0
+R6
+8E:/altera/13.0/projects/HDB3_FPGA/even256_div.v
+FE:/altera/13.0/projects/HDB3_FPGA/even256_div.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1632988316.676000
+!s107 E:/altera/13.0/projects/HDB3_FPGA/even256_div.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/altera/13.0/projects/HDB3_FPGA|E:/altera/13.0/projects/HDB3_FPGA/even256_div.v|
+!i113 0
+R4
+R5
+vfindv
+R1
+!i10b 1
+!s100 BS6g4;AQSkkaeUdMkX=W?1
+IH?a3fikiEZaO4^=cOL5l>1
+R2
+R0
+R6
+8E:/altera/13.0/projects/HDB3_FPGA/findv.v
+FE:/altera/13.0/projects/HDB3_FPGA/findv.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1632988316.984000
+!s107 E:/altera/13.0/projects/HDB3_FPGA/findv.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/altera/13.0/projects/HDB3_FPGA|E:/altera/13.0/projects/HDB3_FPGA/findv.v|
+!i113 0
+R4
+R5
+vHDB3
+R1
+!i10b 1
+!s100 547[IY?JdA9I_U2kjMLa^1
+I:j:RYYN@PNWSM]X^OKHIG1
+R2
+R0
+w1632972663
+8E:/altera/13.0/projects/HDB3_FPGA/HDB3.v
+FE:/altera/13.0/projects/HDB3_FPGA/HDB3.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1632988316.465000
+!s107 E:/altera/13.0/projects/HDB3_FPGA/HDB3.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/altera/13.0/projects/HDB3_FPGA|E:/altera/13.0/projects/HDB3_FPGA/HDB3.v|
+!i113 0
+R4
+R5
+n@h@d@b3
+vHDB3_vlg_tst
+R7
+!i10b 1
+!s100 c?6[P_nl;W9CN:jm;RTTc3
+Ief?SLUbRlaK7U2VTWl8cf3
+R2
+R0
+w1631415330
+8E:/altera/13.0/projects/HDB3_FPGA/simulation/modelsim/HDB3.vt
+FE:/altera/13.0/projects/HDB3_FPGA/simulation/modelsim/HDB3.vt
+L0 28
+R3
+r1
+!s85 0
+31
+!s108 1632988317.281000
+!s107 E:/altera/13.0/projects/HDB3_FPGA/simulation/modelsim/HDB3.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/altera/13.0/projects/HDB3_FPGA/simulation/modelsim|E:/altera/13.0/projects/HDB3_FPGA/simulation/modelsim/HDB3.vt|
+!i113 0
+R4
+!s92 -vlog01compat -work work +incdir+E:/altera/13.0/projects/HDB3_FPGA/simulation/modelsim -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@h@d@b3_vlg_tst
+vm_sequence
+R1
+!i10b 1
+!s100 ^oB:CHm6omhE5I<^dce<41
+I[e<]ok_A8ARc1<GdbIGhG3
+R2
+R0
+w1632550953
+8E:/altera/13.0/projects/HDB3_FPGA/m_sequence.v
+FE:/altera/13.0/projects/HDB3_FPGA/m_sequence.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1632988316.576000
+!s107 E:/altera/13.0/projects/HDB3_FPGA/m_sequence.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/altera/13.0/projects/HDB3_FPGA|E:/altera/13.0/projects/HDB3_FPGA/m_sequence.v|
+!i113 0
+R4
+R5
+vpolar
+R1
+!i10b 1
+!s100 Ddk8f_NSW9;^blkO4QRnn0
+Ii=K^4k6zhM_C0mV=O5`Hz1
+R2
+R0
+w1632550954
+8E:/altera/13.0/projects/HDB3_FPGA/polar.v
+FE:/altera/13.0/projects/HDB3_FPGA/polar.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1632988316.256000
+!s107 E:/altera/13.0/projects/HDB3_FPGA/polar.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/altera/13.0/projects/HDB3_FPGA|E:/altera/13.0/projects/HDB3_FPGA/polar.v|
+!i113 0
+R4
+R5
+vrecover
+R7
+!i10b 1
+!s100 fa`7E3c_91m1L4o@9TS2i2
+I8OzG4c71^e5mlGWLK=fV53
+R2
+R0
+R6
+8E:/altera/13.0/projects/HDB3_FPGA/recover.v
+FE:/altera/13.0/projects/HDB3_FPGA/recover.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1632988317.077000
+!s107 E:/altera/13.0/projects/HDB3_FPGA/recover.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/altera/13.0/projects/HDB3_FPGA|E:/altera/13.0/projects/HDB3_FPGA/recover.v|
+!i113 0
+R4
+R5
+vtrans8to1
+R1
+!i10b 1
+!s100 ROKno=YRgJol5OEQJb[Q52
+I5:011R7IacemQlIoamMFM1
+R2
+R0
+R6
+8E:/altera/13.0/projects/HDB3_FPGA/trans8to1.v
+FE:/altera/13.0/projects/HDB3_FPGA/trans8to1.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1632988316.884000
+!s107 E:/altera/13.0/projects/HDB3_FPGA/trans8to1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/altera/13.0/projects/HDB3_FPGA|E:/altera/13.0/projects/HDB3_FPGA/trans8to1.v|
+!i113 0
+R4
+R5
